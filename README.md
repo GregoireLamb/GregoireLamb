@@ -1,6 +1,8 @@
-## Hello there 👋
+# Hello there 👋
 
-### am a Data Scientist student currently writing my master's thesis in Optical Music Recognition ♩
+I am a Data Scientist student currently writing my master's thesis in Optical Music Recognition ♩
+Check out my pinned projects !  
+
 
 <center>
  
