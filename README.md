@@ -1,6 +1,7 @@
 # Hello there 👋
 
-I am a Data Scientist student currently writing my master's thesis in Optical Music Recognition ♩ 
+I'm a junior Data Scientist and Machine Learning Engineer with a master's in Data Science from the Technical University of Vienna and an engineering degree from INSA Lyon. 
+Currently, I’m preparing for an exciting Working Holiday adventure in New Zealand.
 
 Check out my pinned projects !  
 
